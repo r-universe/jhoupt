@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "sft"]
 	path = sft
-	url = https://github.com/cran/sft
+	url = https://github.com/jhoupt/sft
